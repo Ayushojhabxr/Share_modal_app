@@ -24,7 +24,7 @@ How to Use:
   <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://incomparable-tapioca-4d51b0.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://ayushojhabxr.github.io/Share_modal_app/">**Visit Now** 🚀</a>
 
 <br>
 
